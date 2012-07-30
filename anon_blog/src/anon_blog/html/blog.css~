@@ -1,29 +1,37 @@
-div.content1 {
-  margin-bottom: 5px;
+img.header {
+  margin-left: 60px;
+  margin-top: 0px;
+  height: auto;
+  width: 700px;
 }
-
-div.content2 {
+div.content1 {
   background-color: #464951;
   border-style: solid;
   border-width: 9px;
   border-color: #3C363F;
+  margin-bottom: 0px;
 }
 
-div.con1 {
+div.container1 {
   margin-top: 40px;
   margin-bottom: 5px;
-  background-color: #3C363F;
 }
 
 body.blog {
   background-image: url(images/background.jpeg);
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
+  background-size: cover;
 }
 
 img.border1 {
   height: auto;
   width:  535px;
   margin-top: 5px;
+}
+
+img.commentBar {
+  height: 50px;
+  width: auto;
 }
 
 

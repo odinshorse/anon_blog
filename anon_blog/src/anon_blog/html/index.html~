@@ -3,20 +3,28 @@
  <head>
   <link rel="stylesheet" type="text/css" href="blog.css">
   <link rel="stylesheet" type="text/css" href="960_16_col.css">
-  <title>foobar</title>
+  <title>///:4n0nb10g:\\\</title>
+  <img class="header" src="images/anonblog.png">
  </head>
  <body class="blog">
   <div class="container_16">
-   <div class="grid_3 con1 omega">
-    poop
+   <div class="grid_4 container1 omega">
+    <img class="grid_4 omega" src="images/home1.png">
    </div>
-    <img class=" alpha border1 grid_9" src="images/border1.png">
-    <div  class= "alpha grid_9 content2"> 
+   <div class="alpha grid_9">
+   <img class="alpha border1 grid_9" src="images/border1.png">
+   <div  class= "alpha grid_9 content1"> 
     <p class="grid_8">hello fdkjlsafkljj dsjhk hjds f jklds fkljsd fkj kjlfdsasfdkjskhafjdsa fk fd ksafjdkasjfk dsf jdsj kfaskdfkjdsf sa fds f dsafkdsjfkd saf dsaf sfkjdsakfjjdksf sdaf
  dsafkjdsfkas jfkdj saf
-f dsakfjdskfjdkfdjksfjldsjfklds fds fdsf dskjf dskljfkldsjf kldsjf kldsjf sdf sdkfjdsklfj skldfj sdlkf sklw</p>
+f dsakfjdskfjdkfdjksfjldsjfklds fds fdsf dskjf dskljfkldsjf kldsjf kldsjf sdf sdkfjdsklfj skldfj sdlkf sklw
+    </p>
+    <div class="alpha grid_8">
+     <img class="commentBar" src="images/comments1.png">
+    </div>
    </div>
-   <div class="grid_4">
+   <img class="grid_5" src="images/bottomBorder.png">
+   </div>
+   <div class="grid_3">
    </div>
   </div>
  </body>
