@@ -1,19 +1,28 @@
 div.content1 {
-  margin-top: 5px;
   margin-bottom: 5px;
+}
+
+div.content2 {
   background-color: #464951;
   border-style: solid;
-  border-width: 5px;
-  border-color: #392D3F;
+  border-width: 9px;
+  border-color: #3C363F;
 }
 
 div.con1 {
-  background-color: #3A4151;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #392D3F;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  background-color: #3C363F;
 }
 
 body.blog {
-  background-color: #6B644D;
+  background-image: url(images/background.jpeg);
 }
+
+img.border1 {
+  height: auto;
+  width:  535px;
+  margin-top: 5px;
+}
+
+
