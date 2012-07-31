@@ -1,6 +1,7 @@
 # Create your views here.
-from django.core.paginator import Paginator, InvalidPage, EmptyPage
-from django.core.urlresolvers import reverse
+from django.http import HttpResponse
 
-from dbe.blog.models import *
+
+def index(request):
+    return HttpResponse("Hello, World!")
 

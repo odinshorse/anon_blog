@@ -7,6 +7,7 @@ admin.autodiscover()
 # admin.autodiscover()
 
 urlpatterns = patterns('',
+                       (r'^blog/$', 'blog.views.index'),
     # Example:
     # (r'^anon_blog/', include('anon_blog.foo.urls')),
 
