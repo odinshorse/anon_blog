@@ -76,4 +76,8 @@ INSTALLED_APPS = (
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
+    'django.contrib.admin',
+    'blog',
 )
+
+AUTHENTICATION_BACKENDS = ('blog.auth.Sha256Backend',)
