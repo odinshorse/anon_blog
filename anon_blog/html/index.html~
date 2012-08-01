@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="stylesheet" type="text/css" href="blog.css">
+  <link rel="stylesheet" type="text/css" href="960_16_col.css">
+  <title>///:4n0nb10g:\\\</title>
+ </head>
+ <body class="blog">
+  <div class="container_16 container1">
+   <div class="grid_13">
+    <img class="header" src="images/anonblog.png">
+   </div>
+   <div class="grid_3">
+    <img id="login" class="grid_3" src="images/login.png">
+   </div>
+   <div class="grid_4 container2 omega">
+    <img id="home" class="grid_4 omega" src="images/home2.png">
+    <img id="recent" class="grid_4 omega" src="images/recent1.png">
+    <img id="archive" class="grid_4 omega" src="images/archive1.png">
+    <img id="statement" class="grid_4 omega" src="images/statement1.png">
+   </div>
+   <div id="blogcontent" class="alpha grid_9">
+    <img class="alpha border1 grid_9" src="images/border1.png">
+    <div  class= "alpha grid_9 content1"> 
+     <p class="grid_8">Posted By: Joe @ 1/1/01
+     </p>
+     <img class="alpha grid_9" src=images/break.png>
+     <p class="grid_8">hello fdkjlsafkljj dsjhk hjds f jklds fkljsd fkj kjlfdsasfdkjskhafjdsa fk fd ksafjdkasjfk dsf jdsj kfaskdfkjdsf sa fds f dsafkdsjfkd saf dsaf sfkjdsakfjjdksf sdaf
+ dsafkjdsfkas jfkdj saf
+f dsakfjdskfjdkfdjksfjldsjfklds fds fdsf dskjf dskljfkldsjf kldsjf kldsjf sdf sdkfjdsklfj skldfj sdlkf sklw
+     </p>
+     <div class="alpha grid_8">
+      <img id="commentbar" class="commentBar" src="images/comments1.png">
+     </div>
+    </div>
+    <img class="grid_5" src="images/bottomBorder.png">
+    <img class="grid_9 omega" src="images/commentborder.png">
+    <div  class= "alpha grid_9 content1"> 
+     <p class="grid_8">Posted By: Joe @ 1/1/01
+     </p>
+     <img class="alpha grid_9" src=images/break.png>
+     <p class="grid_8">hello fdkjlsafkljj dsjhk hjds f jklds fkljsd fkj kjlfdsasfdkjskhafjdsa fk fd ksafjdkasjfk dsf jdsj kfaskdfkjdsf sa fds f dsafkdsjfkd saf dsaf sfkjdsakfjjdksf sdaf
+ dsafkjdsfkas jfkdj saf
+f dsakfjdskfjdkfdjksfjldsjfklds fds fdsf dskjf dskljfkldsjf kldsjf kldsjf sdf sdkfjdsklfj skldfj sdlkf sklw
+      </p>
+     </div>
+     <img class="grid_5" src="images/bottomBorder.png">
+    </div>
+    <div class="grid_3">
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
